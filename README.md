@@ -6,8 +6,8 @@ This repository contains two Python scripts for web scraping: one to obtain info
 
 - Python 3.x
 - Requests
-- beautifulsoup4
-- pandas
+- Beautifulsoup4
+- Pandas
 
 <h2>Installation</h2>
 
