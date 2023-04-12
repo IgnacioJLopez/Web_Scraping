@@ -4,7 +4,6 @@ This repository contains two Python scripts for web scraping: one to obtain info
 
 <h2>Requirements</h2>
 
-The android app lets you:
 - Python 3.x
 - Requests
 - beautifulsoup4
